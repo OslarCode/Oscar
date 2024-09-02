@@ -39,7 +39,7 @@ Un portafolio moderno desarrollado con **React** y **Tailwind CSS** para mostrar
 
 Un completo sistema de comercio electrónico con autenticación, gestión de productos y pasarela de pagos, construido con **Next.js** y **Sass**.
 
-### [🔗 Blog Personal](https://github.com/oscar-dev/blog-nextjs)
+### [🔗 Blog ](https://github.com/oscar-dev/blog-nextjs)
 
 Un blog personal con soporte para contenido dinámico y SEO, desarrollado con **Next.js** y **Markdown**.
 
