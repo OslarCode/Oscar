@@ -35,7 +35,7 @@ Soy un **Desarrollador Web Freelance** con más de 5 años de experiencia en la 
 
 Un portafolio moderno desarrollado con **React** y **Tailwind CSS** para mostrar mi trabajo como desarrollador freelance.
 
-### [🔗 E-commerce con Next.js](https://github.com/oscar-dev/nextjs-ecommerce)
+### [🔗 E-commerce ](https://github.com/oscar-dev/nextjs-ecommerce)
 
 Un completo sistema de comercio electrónico con autenticación, gestión de productos y pasarela de pagos, construido con **Next.js** y **Sass**.
 
