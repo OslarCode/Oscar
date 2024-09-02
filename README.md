@@ -53,7 +53,7 @@ Un blog personal con soporte para contenido dinámico y SEO, desarrollado con **
 
 ¿Te gusta lo que hago? Puedes apoyarme invitándome un café. ¡Cada aporte me ayuda a seguir creando contenido y proyectos geniales!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/oscardev)
+[![Buy Me A Coffee]([https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/oscardev](https://buymeacoffee.com/oslar))
 
 ## 📫 **Contáctame**
 
