@@ -57,7 +57,7 @@ Un blog personal con soporte para contenido dinámico y SEO, desarrollado con **
 
 ## 📫 **Contáctame**
 
-- **Email:** oscar.dev@example.com
+- **Email:** oslar1980@gmail.com
 - **LinkedIn:** [linkedin.com/in/oscar-dev](https://linkedin.com/in/oscar-dev)
 - **Twitter:** [twitter.com/oscar_dev](https://twitter.com/oscar_dev)
 
