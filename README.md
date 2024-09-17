@@ -29,20 +29,6 @@ Soy un **Desarrollador Web Freelance** con más de 5 años de experiencia en la 
 - **Animaciones Web:** Implementación de animaciones y transiciones suaves utilizando **CSS3** y **JavaScript**.
 - **Optimización de Rendimiento:** Mejora del rendimiento web a través de técnicas de optimización como carga diferida y minificación de recursos.
 
-## 🎯 **Proyectos Recientes**
-
-### [🔗 Portfolio Web Personal](https://github.com/oscar-dev/portfolio)
-
-Un portafolio moderno desarrollado con **React** y **Tailwind CSS** para mostrar mi trabajo como desarrollador freelance.
-
-### [🔗 E-commerce ](https://github.com/oscar-dev/nextjs-ecommerce)
-
-Un completo sistema de comercio electrónico con autenticación, gestión de productos y pasarela de pagos, construido con **Next.js** y **Sass**.
-
-### [🔗 Blog ](https://github.com/oscar-dev/blog-nextjs)
-
-Un blog personal con soporte para contenido dinámico y SEO, desarrollado con **Next.js** y **Markdown**.
-
 ## 💡 **En qué Estoy Trabajando**
 
 - Explorando **Web3** y **dApps**.
