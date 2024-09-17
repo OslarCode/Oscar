@@ -44,8 +44,8 @@ Soy un **Desarrollador Web Freelance** con más de 5 años de experiencia en la 
 ## 📫 **Contáctame**
 
 - **Email:** oslar1980@gmail.com
-- **LinkedIn:** [linkedin.com/in/oslar-dev](https://www.linkedin.com/in/oslar-lara-036438328/)
-- **Twitter:** [twitter.com/oslar_dev](https://twitter.com/oscar_dev)
+- **LinkedIn:** [linkedin.com/in/oslar](https://www.linkedin.com/in/oslar-lara-036438328/)
+- **Twitter:** [twitter.com/OArtificacial](https://x.com/OArtificacialTk)
 
 ---
 
