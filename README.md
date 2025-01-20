@@ -36,7 +36,7 @@ Soy un **Desarrollador Web Freelance** con más de 5 años de experiencia en la 
 
 ## 💡 **En qué Estoy Trabajando**
 
-- Explorando **Web3** y **dApps**.
+- Explorando **Web3** y **Apps**.
 - Mejorando habilidades en **TypeScript** y **React avanzado**.
 - Profundizando en **optimización SEO** para aplicaciones SPA.
 
