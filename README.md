@@ -47,9 +47,7 @@ Soy un **Desarrollador Web Freelance** con más de 5 años de experiencia en la 
 - **LinkedIn:** [linkedin.com/in/oslar_code](https://www.linkedin.com/in/oslar-lara-036438328/)
 - **Twitter:** [twitter.com/OArtificacial](https://x.com/OArtificacialTk)
 
----
-
-## **Stats**
+## **Tecnologías**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OslarCode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
